@@ -152,8 +152,11 @@ This is how dapr works in this two microservices.
 
 ![Diagrama sin título-Página-4 drawio](https://user-images.githubusercontent.com/65357617/218523417-fd037af4-7b4e-489d-89fb-7b09a52ca121.png)
 
-The service Sender communicates with the Sidecar Myapps2 and that sidecars communicates with the Sicar Myapps1 and it communicates with the service receiver.    
-
+The service Sender communicates with the Sidecar Myapps2 and that sidecars communicates with the Sicar Myapps1 and it communicates with the service receiver.   
+    
+<img width="1280" alt="Captura de pantalla 2023-02-13 a la(s) 14 23 23" src="https://user-images.githubusercontent.com/65357617/218542569-f1f16043-9b3e-4111-aa8a-6ee9eb40cff8.png">
+    
+    
 # How to run dapr with DOTNET?
 First, you need to open a terminal in your proyect, then you need to run the following commands: 
    
@@ -326,7 +329,9 @@ Así funciona dapr en estos dos microservicios.
 ![Diagrama sin título-Página-4 drawio](https://user-images.githubusercontent.com/65357617/218523417-fd037af4-7b4e-489d-89fb-7b09a52ca121.png)
     
 El servicio Sender se comunica con el Sidecar Myapps2 y ese sidecar se comunica con el Sicar Myapps1 y se comunica con el servicio receiver.   
-
+    
+<img width="1280" alt="Captura de pantalla 2023-02-13 a la(s) 14 23 23" src="https://user-images.githubusercontent.com/65357617/218542569-f1f16043-9b3e-4111-aa8a-6ee9eb40cff8.png">
+    
 # ¿Cómo ejecutar dapr con DOTNET?
 Primero, debe abrir una terminal en su proyecto, luego debe ejecutar los siguientes comandos:
     
