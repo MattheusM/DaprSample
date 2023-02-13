@@ -1,4 +1,5 @@
-# DaprSample Spanish translation down there
+# DaprSample 
+(Spanish translation down)
 
 This is an example that you can use to understand how Dapr works, in this sample, we will be using the self-hosted mode.
 
