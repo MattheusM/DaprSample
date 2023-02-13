@@ -4,7 +4,7 @@
 This is an example that you can use to understand how Dapr works, in this sample, we will be using the self-hosted mode.
 
 First of all, you need to install dapr, you can find how to install dapr in the next link: https://docs.dapr.io/getting-started/install-dapr-cli/
-There are some steps you need to follow to download and install dapr depending on you OS. After installing dapr you'll need to install Docker containers, you will be able to follow the steps in the official page of DOCKER: https://docs.docker.com/desktop/install/windows-install/
+There are some steps you need to follow to download and install dapr depending on you OS. After installing dapr you'll need to install Docker containers, you will be able to follow the steps in the official DOCKER website page: https://docs.docker.com/desktop/install/windows-install/
 
 Now that you have dapr and docker you can run the following command: dapr init , this will allow dapr to create some containers in your docker.
 You should see this 3 containers running in docker after running the previous command.
