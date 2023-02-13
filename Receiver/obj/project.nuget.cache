@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/9+SvO7tpDAlQ6XerQxnoqvi8APFYtGNOI6tuACrWzeK3sYnOYwB6zTsoa2jLLsYXXhdFO75625mGKE8covAA==",
+  "success": true,
+  "projectFilePath": "/Users/MateoMunguia/Projects/pruebaDaprHttpClient/Receiver/Receiver.csproj",
+  "expectedPackageFiles": [
+    "/Users/MateoMunguia/.nuget/packages/dapr.aspnetcore/1.9.0/dapr.aspnetcore.1.9.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/dapr.client/1.9.0/dapr.client.1.9.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/google.api.commonprotos/2.2.0/google.api.commonprotos.2.2.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/google.protobuf/3.15.0/google.protobuf.3.15.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/grpc.core.api/2.47.0/grpc.core.api.2.47.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/grpc.net.client/2.47.0/grpc.net.client.2.47.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/grpc.net.common/2.47.0/grpc.net.common.2.47.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/system.io.pipelines/4.7.2/system.io.pipelines.4.7.2.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
+    "/Users/MateoMunguia/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
